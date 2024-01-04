@@ -1,0 +1,161 @@
+body {
+  font-family: fira code, sans-serif;
+}
+.container {
+  margin: 100px auto 100px;
+  width: 80%;
+  text-align: center;
+}
+span {
+  display: block;
+}
+.card {
+  width: 50px;
+  height: 50px;
+  border: solid #000000 1px;
+  display: inline-block;
+}
+#yellow {
+  background-color: yellow;
+}
+#blue {
+  background-color: blue;
+}
+#white {
+  background-color: white;
+}
+#red {
+  background-color: red;
+}
+#green {
+  background-color: green;
+}
+#purple {
+  background-color: purple;
+}
+#orange {
+  background-color: orange;
+}
+#pink {
+  background-color: pink;
+}
+#brown {
+  background-color: brown;
+}
+#cyan {
+  background-color: cyan;
+}
+#teal {
+  background-color: teal;
+}
+#maroon {
+  background-color: maroon;
+}
+#navy {
+  background-color: navy;
+}
+#lavender {
+  background-color: lavender;
+}
+#indigo {
+  background-color: indigo;
+}
+#gold {
+  background-color: gold;
+}
+#silver {
+  background-color: silver;
+}
+#magenta {
+  background-color: magenta;
+}
+#lime {
+  background-color: lime;
+}
+#olive {
+  background-color: olive;
+}
+#salmon {
+  background-color: salmon;
+}
+#turquoise {
+  background-color: turquoise;
+}
+#violet {
+  background-color: violet;
+}
+#coral {
+  background-color: coral;
+}
+#khaki {
+  background-color: khaki;
+}
+#plum {
+  background-color: plum;
+}
+#orchid {
+  background-color: orchid;
+}
+#azure {
+  background-color: azure;
+}
+#crimson {
+  background-color: crimson;
+}
+#sienna {
+  background-color: sienna;
+}
+#steelblue {
+  background-color: steelblue;
+}
+#tomato {
+  background-color: tomato;
+}
+#wheat {
+  background-color: wheat;
+}
+#bisque {
+  background-color: bisque;
+}
+#darkslategray {
+  background-color: darkslategray;
+}
+#firebrick {
+  background-color: firebrick;
+}
+#gainsboro {
+  background-color: gainsboro;
+}
+#honeydew {
+  background-color: honeydew;
+}
+#ivory {
+  background-color: ivory;
+}
+#lemonchiffon {
+  background-color: lemonchiffon;
+}
+#mistyrose {
+  background-color: mistyrose;
+}
+#oldlace {
+  background-color: oldlace;
+}
+#peru {
+  background-color: peru;
+}
+#rosybrown {
+  background-color: rosybrown;
+}
+#saddlebrown {
+  background-color: saddlebrown;
+}
+#seashell {
+  background-color: seashell;
+}
+#thistle {
+  background-color: thistle;
+}
+#darkkhaki {
+  background-color: darkkhaki;
+}
